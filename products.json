@@ -1,0 +1,57 @@
+[
+    {
+        "id": 1,
+        "name":" HTML",
+        "price": 2000,
+        "image": "image/1.png"
+    },
+    {
+        "id": 2,
+        "name":" CSS",
+        "price": 2500,
+        "image": "image/2.png"
+    },
+    {
+        "id": 3,
+        "name":" Bootstrap",
+        "price": 3000,
+        "image": "image/3.png"
+    },
+    {
+        "id": 4,
+        "name":" JavaScript",
+        "price": 4000,
+        "image": "image/4.png"
+    },
+    {
+        "id": 5,
+        "name":" Jquery",
+        "price": 3000,
+        "image": "image/5.png"
+    },
+    {
+        "id": 6,
+        "name":" React Js",
+        "price": 5000,
+        "image": "image/6.png"
+    },
+    {
+        "id": 7,
+        "name":" PHP",
+        "price": 6000,
+        "image": "image/7.png"
+    },
+    {
+        "id": 8,
+        "name":" Laravel",
+        "price": 7000,
+        "image": "image/8.png"
+    },
+    {
+        "id": 9,
+        "name":" CodeIgniter",
+        "price": 5000,
+        "image": "image/9.png"
+    }
+
+]
